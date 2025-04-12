@@ -1256,7 +1256,7 @@ elif selected_page == "Daily Summary":
 st.markdown("""
     <footer style="margin-top: 5rem; padding: 2rem 0; text-align: center; color: var(--secondary); border-top: 1px solid #eee;">
         <p style="margin: 0.5rem 0;">Developed by Jaswanth Pabbidi | 24MAI0087</p>
-        <p style="margin: 0.5rem 0; font-size: 0.9rem;">For support: <a href="mailto:jpabbidi@gmail.com" style="color: var(--primary); text-decoration: none;">anmolchaubey820@gmail.com</a></p>
+        <p style="margin: 0.5rem 0; font-size: 0.9rem;">For support: <a href="mailto:jpabbidi@gmail.com" style="color: var(--primary); text-decoration: none;">jpabbidi@gmail.com</a></p>
         <p style="margin: 0.5rem 0; font-size: 0.8rem;">© 2023 Alzheimer's Companion. All rights reserved.</p>
     </footer>
 """, unsafe_allow_html=True)
